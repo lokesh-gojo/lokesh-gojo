@@ -1,102 +1,171 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:7f1d1d,100:dc2626&height=240&section=header&text=Lokesh%20C&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=AI%20Engineer%20in%20the%20making%20%C2%B7%20Python%20%C2%B7%20Generative%20AI&descAlignY=62&descSize=20" alt="Lokesh C banner" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4a6fa5&height=200&section=header&text=LOKESH%20C&fontColor=6ea8fe&fontSize=64&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%7C%20Python%20Developer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20LLM%20Apps&descAlignY=62&descSize=18" alt="Lokesh C banner" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Lokesh+%F0%9F%91%8B;I+build+AI-powered+apps+with+Python+%2B+Gemini+API;2x+Hackathon+Winner+%F0%9F%8F%86;Looking+for+an+AI+Engineering+internship+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=lokesh-gojo&label=Profile%20Views&color=6ea8fe&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-6ea8fe?style=for-the-badge&labelColor=161622" alt="Focus"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-2ea043?style=for-the-badge&labelColor=161622" alt="Status"/>
+[**About**](#-about-me) · [**Skills**](#-skills) · [**Projects**](#-projects) · [**Experience**](#-experience) · [**Achievements**](#-achievements) · [**Contact**](#-contact)
 
 <br/>
 
-<img src="https://img.shields.io/badge/GRADUATING-2027-c08cf5?style=for-the-badge&labelColor=161622" alt="Graduating 2027"/>
-<img src="https://img.shields.io/badge/HACKATHONS-2%20WINS-f1c40f?style=for-the-badge&labelColor=161622" alt="Hackathon wins"/>
-<img src="https://img.shields.io/badge/LOCATION-TAMIL%20NADU%2C%20INDIA-e04141?style=for-the-badge&labelColor=161622" alt="Location"/>
+![Views](https://komarev.com/ghpvc/?username=lokesh-gojo&label=Views&color=dc2626&style=flat-square&labelColor=0a0a0a)
+![Open to work](https://img.shields.io/badge/Open%20to-Internships-ef4444?style=flat-square&labelColor=0a0a0a)
+![Class of](https://img.shields.io/badge/Class%20of-2027-b91c1c?style=flat-square&labelColor=0a0a0a)
+![Location](https://img.shields.io/badge/Based%20in-Coimbatore%2C%20India-fca5a5?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
 <br/>
 
-## 🖥️ `~/lokesh $ whoami`
+## 👨‍💻 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name      = "Lokesh C"
-        self.role      = "Aspiring AI Engineer | Python Developer"
-        self.education = "B.E. Computer Science Engineering (2027)"
-        self.location  = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.langs     = ["Python", "JavaScript"]
-        self.interests = ["Generative AI", "LLM Applications", "Machine Learning"]
-        self.current   = "Building AI-powered apps with the Gemini API 🧩"
-        self.seeking   = "AI Engineering internship"
+<table>
+<tr>
+<td width="60%" valign="top">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build useful AI solutions together. ⚙️")
+I'm a **Computer Science Engineering student (graduating 2027)** with a strong interest in **AI engineering** and **AI-powered application development**.
 
-AIEngineer().say_hi()
+I work mainly in **Python**, have hands-on experience integrating the **Gemini API**, and I'm building my foundations in **machine learning**. I've built responsive web apps and an agriculture decision-support platform, and I enjoy turning ideas into working products.
+
+I'm looking for an **AI Engineering internship** where I can apply my skills, learn from real projects and contribute to useful AI solutions.
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Lokesh C
+role: Aspiring AI Engineer
+education: B.E. CSE (2027)
+location: Coimbatore, India
+focus:
+  - Generative AI
+  - LLM Applications
+  - Machine Learning
+currently: Building with Gemini API
+status: Open to internships
 ```
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-## 🛠️ Tech Stack
+## ⚡ Skills
 
-| Category | Tools |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Skills"/>
+
+</div>
+
+| | |
 |---|---|
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **AI / Generative AI** | ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-Foundations-orange?style=flat-square) |
-| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive%20Design-4a6fa5?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| 🐍 **Languages** | Python, JavaScript |
+| 🤖 **AI / GenAI** | Gemini API integration, foundational Machine Learning |
+| 🌐 **Web** | HTML5, CSS3, responsive web design |
+| 🧰 **Tools** | Git, GitHub, Visual Studio Code |
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🌾 AI-Powered Smart Crop Rotation & Soil Restorer
-A farmer-focused decision-support platform that recommends suitable crops and plans crop rotations.
-- Soil-health scoring from **N, P, K, pH and organic carbon** measurements
-- Crop evaluation and rotation-planning engine that ranks candidates and compares projected profitability and soil-health outcomes
-- **Gemini API** farmer assistant with **English and Tamil** chatbot support
-- Crop datasets and **ESP32-based soil-sensor** integration for collecting and analysing soil data
+<table>
+<tr>
+<td width="33%" valign="top">
 
-`Python` `Gemini API` `ESP32` `Data Analysis`
+### 🌾 Smart Crop Rotation & Soil Restorer
 
-### 🎓 Acadex LMS: Learning Management System
-Responsive learning management interface with separate dashboards for **administrators, faculty and students**, covering course management, attendance, assignments, quizzes, certificates, authentication and profiles.
+AI-powered decision-support app for farmers.
 
-`HTML5` `CSS3` `JavaScript` `Git`
+- Soil-health scoring from N, P, K, pH and organic carbon
+- Crop ranking and rotation planning by profitability and soil health
+- Gemini-powered chatbot in **English and Tamil**
+- **ESP32** soil-sensor integration
 
-### 📈 Track It Invest: Investment Tracking Web App
-Responsive investment-tracking interface with user-friendly navigation on desktop and mobile, interactive frontend behaviour, and an online demo deployment.
+`Python` `Gemini API` `ESP32`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 Acadex LMS
+
+Learning management system with dashboards for **admins, faculty and students**.
+
+- Course management and attendance
+- Assignments, quizzes and certificates
+- Authentication and user profiles
 
 `HTML5` `CSS3` `JavaScript`
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Track It Invest
+
+Responsive investment-tracking web app.
+
+- Clean navigation on desktop and mobile
+- Interactive frontend behaviour
+- Deployed online for demonstration
+
+`HTML5` `CSS3` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 💼 Experience
 
-**Full Stack Python Developer Intern** · Bangalore · *Jun 2026 – Aug 2026*
-- Built and shipped web application features using Python
-- Debugged code and solved technical problems using programming fundamentals
-- Gained hands-on experience with application development workflows and software development practices
+```text
+┌─ Full Stack Python Developer Intern ───────── Jun 2026 – Aug 2026 · Bangalore
+│
+├─ Built and shipped web application features using Python
+├─ Debugged code and solved technical problems with programming fundamentals
+└─ Gained hands-on experience with development workflows and best practices
+```
 
 <br/>
 
 ## 🏆 Achievements
 
-- 🥇 **First Prize**: HACKRO'26 Hackathon, Erode Sengunthar Engineering College (Sep 2026)
-- 🥇 **First Place**: NEXUS'26 Hackathon, Sasurie College of Engineering (Oct 2026)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 First Prize
+**HACKRO'26 Hackathon**<br/>
+Erode Sengunthar Engineering College<br/>
+*September 2026*
+
+</td>
+<td align="center" width="50%">
+
+### 🥇 First Place
+**NEXUS'26 Hackathon**<br/>
+Sasurie College of Engineering<br/>
+*October 2026*
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📜 Certifications (click to expand)</b></summary>
 
 <br/>
 
-## 📜 Certifications
+- 🔬 **Introduction to Semiconductors**: India Semiconductor Mission, MeitY & Intel (Sep 2026)
+- 🤖 **Build Your Own GPTs**: LinkedIn Learning (Mar 2025)
+- 💻 **Introduction to Career Skills in Software Development**: LinkedIn Learning (May 2025)
+- 🌐 **Networking Essentials using Cisco**: Certificate of Appreciation, FIESTA'25, KPR Institute of Engineering and Technology (Mar 2025)
+- 🧠 **AI Tools Workshop**: Participant
 
-- Introduction to Semiconductors: India Semiconductor Mission, MeitY & Intel (Sep 2026)
-- Build Your Own GPTs: LinkedIn Learning (Mar 2025)
-- Introduction to Career Skills in Software Development: LinkedIn Learning (May 2025)
-- Networking Essentials using Cisco: Certificate of Appreciation, FIESTA'25, KPR Institute of Engineering and Technology (Mar 2025)
-- AI Tools Workshop: Participant
+</details>
 
 <br/>
 
@@ -104,23 +173,29 @@ Responsive investment-tracking interface with user-friendly navigation on deskto
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh-gojo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-gojo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh-gojo&show_icons=true&hide_border=false&title_color=ef4444&text_color=f5f5f5&icon_color=dc2626&bg_color=0a0a0a&border_color=7f1d1d" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-gojo&layout=compact&title_color=ef4444&text_color=f5f5f5&bg_color=0a0a0a&border_color=7f1d1d" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=lokesh-gojo&background=0A0A0A&stroke=7F1D1D&ring=EF4444&fire=DC2626&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=EF4444&sideLabels=FCA5A5&dates=FCA5A5&border=7F1D1D" alt="GitHub streak"/>
 
 </div>
 
 <br/>
 
-## 📫 Let's Connect
+## 📫 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lokesh--c-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-c-05551b278)
-[![Email](https://img.shields.io/badge/Email-lokesh2005c%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokesh2005c@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lokesh--gojo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokesh-gojo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-dc2626?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-c-05551b278)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:lokesh2005c@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7f1d1d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokesh-gojo)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a6fa5,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
+*Thanks for stopping by! Let's build useful AI solutions together.* ⚙️
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:7f1d1d,100:000000&height=110&section=footer" width="100%" alt="footer"/>
